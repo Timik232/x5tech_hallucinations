@@ -1,2 +1,2 @@
-# x5tech_hallucinations
-hackathon
+# Хакатон x5tech
+# Трек – галлюцинации
